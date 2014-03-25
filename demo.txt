@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-
-updated by me at 2.51 on 25mar4
-
-
-
-=======
-updated by github
->>>>>>> d84b9f34a193bff41f4c9e28532492bd246b43f5
+updated from vi 3.10 on 25mar2014
